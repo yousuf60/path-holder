@@ -1,4 +1,4 @@
-from .. import File
+from path_holder import File
 
 f = File("tests/","data/","fl.txt")
 
